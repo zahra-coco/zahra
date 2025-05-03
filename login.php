@@ -44,7 +44,7 @@ include "inc/koneksi.php";
 		<!-- /.login-logo -->
 		<div class="login-box-body">
 			<center>
-				<img src="logosmp" width=160px />
+				<img src="dish/img/logosmp.png" width=160px />
 			</center>
 			<br>
 			<p class="login-box-msg">Login System</p>
